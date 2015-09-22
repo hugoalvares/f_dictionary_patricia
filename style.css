@@ -1,0 +1,15 @@
+.textSearchBox{
+	margin-top: 20%;
+	margin-left: 10%;
+}
+.searchBox {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.resultBox {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 300px;
+}
